@@ -8,7 +8,7 @@ def formatter(string, sort_keys=True, indent=4):
     loaded_json = json.loads(string)
     #dum as string
     return json.dumps(string, sort_keys=sort_keys, indent=indent)
-
+    
 def main(path, no_sort):
     if no_sort: 
         sort_keys = False

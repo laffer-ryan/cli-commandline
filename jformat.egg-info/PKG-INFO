@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: jformat
+Version: 0.0.1
+Summary: reformat file from stdout
+Author: Ryan Lafferty
+Author-email: lafferty.ryan10@gmail.com
